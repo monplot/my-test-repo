@@ -1,2 +1,2 @@
 # my-test-repo
-Practice for lerning
+Practice for learning
